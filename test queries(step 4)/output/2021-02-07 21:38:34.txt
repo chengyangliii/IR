@@ -1,0 +1,491 @@
+topic_id Q0 docno rank score tag
+1 Q0 BBC World Service staff cutsFake id 1 1 0.9691156538870522 myRun
+1 Q0 BBC World Service staff cutsFake id 3 2 0.9639083714781501 myRun
+1 Q0 BBC World Service staff cutsFake id 4 3 0.8585808957980149 myRun
+1 Q0 BBC World Service staff cutsFake id 2 4 0.8394776004637386 myRun
+1 Q0 BBC World Service staff cutsFake id 6 5 0.6803311669467921 myRun
+1 Q0 BBC World Service staff cutsFake id 7 6 0.5840649547466957 myRun
+1 Q0 BBC World Service staff cutsFake id 0 7 0.46562409021618345 myRun
+1 Q0 BBC World Service staff cutsFake id 9 8 0.23223249712147087 myRun
+1 Q0 BBC World Service staff cutsFake id 5 9 0.14502213805037412 myRun
+1 Q0 BBC World Service staff cutsFake id 8 10 0.08775104980406545 myRun
+2 Q0 2022 FIFA soccer Fake id 5 1 0.7383173205170088 myRun
+2 Q0 2022 FIFA soccer Fake id 4 2 0.6837258547814474 myRun
+2 Q0 2022 FIFA soccer Fake id 2 3 0.6314991939726199 myRun
+2 Q0 2022 FIFA soccer Fake id 9 4 0.6195680474779226 myRun
+2 Q0 2022 FIFA soccer Fake id 3 5 0.6032457425899266 myRun
+2 Q0 2022 FIFA soccer Fake id 1 6 0.600167619183956 myRun
+2 Q0 2022 FIFA soccer Fake id 6 7 0.5937365552645743 myRun
+2 Q0 2022 FIFA soccer Fake id 0 8 0.47338536692192146 myRun
+2 Q0 2022 FIFA soccer Fake id 7 9 0.29375612246220184 myRun
+2 Q0 2022 FIFA soccer Fake id 8 10 0.09015684696188941 myRun
+3 Q0 Haiti Aristide returnFake id 6 1 0.993664519139712 myRun
+3 Q0 Haiti Aristide returnFake id 0 2 0.950144200673858 myRun
+3 Q0 Haiti Aristide returnFake id 3 3 0.80444643247133 myRun
+3 Q0 Haiti Aristide returnFake id 5 4 0.7338280758072048 myRun
+3 Q0 Haiti Aristide returnFake id 8 5 0.6957783804822143 myRun
+3 Q0 Haiti Aristide returnFake id 9 6 0.49487397040619807 myRun
+3 Q0 Haiti Aristide returnFake id 4 7 0.4563885080932266 myRun
+3 Q0 Haiti Aristide returnFake id 2 8 0.3641109470896685 myRun
+3 Q0 Haiti Aristide returnFake id 7 9 0.17259151360354208 myRun
+3 Q0 Haiti Aristide returnFake id 1 10 0.11577363733565182 myRun
+4 Q0 Mexico drug warFake id 4 1 0.9934352033675784 myRun
+4 Q0 Mexico drug warFake id 6 2 0.7838975500306227 myRun
+4 Q0 Mexico drug warFake id 8 3 0.7250963482038292 myRun
+4 Q0 Mexico drug warFake id 2 4 0.557508739566658 myRun
+4 Q0 Mexico drug warFake id 0 5 0.35772950806654 myRun
+4 Q0 Mexico drug warFake id 7 6 0.28062236897181614 myRun
+4 Q0 Mexico drug warFake id 9 7 0.2358100045494489 myRun
+4 Q0 Mexico drug warFake id 1 8 0.20429216974351116 myRun
+4 Q0 Mexico drug warFake id 5 9 0.1893382609795886 myRun
+4 Q0 Mexico drug warFake id 3 10 0.09750350543613062 myRun
+5 Q0 NIST computer securityFake id 3 1 0.7091452844043133 myRun
+5 Q0 NIST computer securityFake id 6 2 0.6924929676085166 myRun
+5 Q0 NIST computer securityFake id 0 3 0.6289111588940428 myRun
+5 Q0 NIST computer securityFake id 1 4 0.5142758709492048 myRun
+5 Q0 NIST computer securityFake id 4 5 0.464066090998529 myRun
+5 Q0 NIST computer securityFake id 9 6 0.42342065914257754 myRun
+5 Q0 NIST computer securityFake id 2 7 0.4069745463651876 myRun
+5 Q0 NIST computer securityFake id 7 8 0.18628444605331296 myRun
+5 Q0 NIST computer securityFake id 5 9 0.18594162127275737 myRun
+5 Q0 NIST computer securityFake id 8 10 0.17211320646596961 myRun
+6 Q0 NSA Fake id 8 1 0.9433287065791236 myRun
+6 Q0 NSA Fake id 6 2 0.6725330048190135 myRun
+6 Q0 NSA Fake id 0 3 0.5178127321173128 myRun
+6 Q0 NSA Fake id 3 4 0.5146045416008629 myRun
+6 Q0 NSA Fake id 7 5 0.5025215522928405 myRun
+6 Q0 NSA Fake id 4 6 0.46656652415455147 myRun
+6 Q0 NSA Fake id 1 7 0.45637251645787646 myRun
+6 Q0 NSA Fake id 5 8 0.3873495075561729 myRun
+6 Q0 NSA Fake id 2 9 0.20266306547267843 myRun
+6 Q0 NSA Fake id 9 10 0.021368483341001165 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 6 1 0.9599483521098923 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 7 2 0.7992571368582597 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 0 3 0.6909618377922507 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 5 4 0.5287780994960732 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 1 5 0.42157357168422194 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 3 6 0.2528033415097425 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 2 7 0.23383013362609895 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 8 8 0.2297381930281449 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 4 9 0.04452768108965188 myRun
+7 Q0 Pakistan diplomat arrest murderFake id 9 10 0.04017628551181507 myRun
+8 Q0 phone hacking British politiciansFake id 9 1 0.9998235840159194 myRun
+8 Q0 phone hacking British politiciansFake id 7 2 0.9978058876067456 myRun
+8 Q0 phone hacking British politiciansFake id 8 3 0.7688348291556821 myRun
+8 Q0 phone hacking British politiciansFake id 2 4 0.6045347068405386 myRun
+8 Q0 phone hacking British politiciansFake id 1 5 0.6032174263737944 myRun
+8 Q0 phone hacking British politiciansFake id 5 6 0.40609260186122775 myRun
+8 Q0 phone hacking British politiciansFake id 3 7 0.4016307245914489 myRun
+8 Q0 phone hacking British politiciansFake id 6 8 0.13666902680546922 myRun
+8 Q0 phone hacking British politiciansFake id 0 9 0.06317543365952294 myRun
+8 Q0 phone hacking British politiciansFake id 4 10 0.0023899390054077374 myRun
+9 Q0 Toyota RecallFake id 2 1 0.9399861246922973 myRun
+9 Q0 Toyota RecallFake id 6 2 0.8472282078641247 myRun
+9 Q0 Toyota RecallFake id 0 3 0.7089262100436522 myRun
+9 Q0 Toyota RecallFake id 7 4 0.610065421640603 myRun
+9 Q0 Toyota RecallFake id 9 5 0.6078099670238821 myRun
+9 Q0 Toyota RecallFake id 8 6 0.5106726900029013 myRun
+9 Q0 Toyota RecallFake id 1 7 0.46914212702922187 myRun
+9 Q0 Toyota RecallFake id 4 8 0.17457647445731694 myRun
+9 Q0 Toyota RecallFake id 5 9 0.07759485284144718 myRun
+9 Q0 Toyota RecallFake id 3 10 0.011268945086556625 myRun
+1 Q0 Egyptian protesters attack museumFake id 3 1 0.9822829030394522 myRun
+1 Q0 Egyptian protesters attack museumFake id 7 2 0.770390830553423 myRun
+1 Q0 Egyptian protesters attack museumFake id 0 3 0.4366026887881017 myRun
+1 Q0 Egyptian protesters attack museumFake id 6 4 0.39776103194586276 myRun
+1 Q0 Egyptian protesters attack museumFake id 5 5 0.3899844303708728 myRun
+1 Q0 Egyptian protesters attack museumFake id 2 6 0.3337751126932731 myRun
+1 Q0 Egyptian protesters attack museumFake id 9 7 0.22350982003419217 myRun
+1 Q0 Egyptian protesters attack museumFake id 1 8 0.16888336107675528 myRun
+1 Q0 Egyptian protesters attack museumFake id 4 9 0.16474973817823835 myRun
+1 Q0 Egyptian protesters attack museumFake id 8 10 0.11733455060021702 myRun
+11 Q0 Kubica crashFake id 4 1 0.8471225198554669 myRun
+11 Q0 Kubica crashFake id 9 2 0.8313481696792493 myRun
+11 Q0 Kubica crashFake id 7 3 0.6938947993158425 myRun
+11 Q0 Kubica crashFake id 5 4 0.6733484612401553 myRun
+11 Q0 Kubica crashFake id 8 5 0.534626929022847 myRun
+11 Q0 Kubica crashFake id 1 6 0.5132855930279484 myRun
+11 Q0 Kubica crashFake id 0 7 0.4946358677671723 myRun
+11 Q0 Kubica crashFake id 3 8 0.4648292526951233 myRun
+11 Q0 Kubica crashFake id 2 9 0.4637759516546546 myRun
+11 Q0 Kubica crashFake id 6 10 0.42567743672069824 myRun
+12 Q0 Assange Nobel peace nominationFake id 7 1 0.8469202001054507 myRun
+12 Q0 Assange Nobel peace nominationFake id 4 2 0.8149106178663764 myRun
+12 Q0 Assange Nobel peace nominationFake id 3 3 0.7807583312176896 myRun
+12 Q0 Assange Nobel peace nominationFake id 8 4 0.7367059494739215 myRun
+12 Q0 Assange Nobel peace nominationFake id 1 5 0.6609022403044378 myRun
+12 Q0 Assange Nobel peace nominationFake id 2 6 0.3624763537607859 myRun
+12 Q0 Assange Nobel peace nominationFake id 9 7 0.3441681493791291 myRun
+12 Q0 Assange Nobel peace nominationFake id 0 8 0.3084132621790122 myRun
+12 Q0 Assange Nobel peace nominationFake id 6 9 0.27387300718073104 myRun
+12 Q0 Assange Nobel peace nominationFake id 5 10 0.015540267910706396 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 2 1 0.8552099662609616 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 4 2 0.7424449495442687 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 8 3 0.7251543716730595 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 1 4 0.7017170922399373 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 5 5 0.5685537848677852 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 6 6 0.5202315953541751 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 9 7 0.48093273665035374 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 7 8 0.4775739890079044 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 0 9 0.2106436331004673 myRun
+13 Q0 Oprah Winfrey half-sisterFake id 3 10 0.19235460583765196 myRun
+14 Q0 release of "The Rite"Fake id 2 1 0.9752443155595566 myRun
+14 Q0 release of "The Rite"Fake id 6 2 0.7883545814722459 myRun
+14 Q0 release of "The Rite"Fake id 3 3 0.7485519152044255 myRun
+14 Q0 release of "The Rite"Fake id 0 4 0.5641658974195398 myRun
+14 Q0 release of "The Rite"Fake id 1 5 0.4355512300321135 myRun
+14 Q0 release of "The Rite"Fake id 9 6 0.422291975476897 myRun
+14 Q0 release of "The Rite"Fake id 7 7 0.22109273373274185 myRun
+14 Q0 release of "The Rite"Fake id 4 8 0.19281868239452182 myRun
+14 Q0 release of "The Rite"Fake id 5 9 0.02827565802340437 myRun
+14 Q0 release of "The Rite"Fake id 8 10 3.0543308264352476e-05 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 8 1 0.761843367890777 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 6 2 0.6971147469381438 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 7 3 0.5372173637943761 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 1 4 0.35425383822922096 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 0 5 0.30110855122877245 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 5 6 0.2499630129246604 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 3 7 0.16060136903931754 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 2 8 0.14858871133458007 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 9 9 0.05913776294180395 myRun
+15 Q0 Thorpe return in 2012 OlympicsFake id 4 10 0.013240879707654307 myRun
+16 Q0 release of "Known and Unknown" Fake id 5 1 0.8457494660742633 myRun
+16 Q0 release of "Known and Unknown" Fake id 3 2 0.8448036304336849 myRun
+16 Q0 release of "Known and Unknown" Fake id 1 3 0.7623429661015293 myRun
+16 Q0 release of "Known and Unknown" Fake id 7 4 0.741238418640442 myRun
+16 Q0 release of "Known and Unknown" Fake id 6 5 0.695050219652709 myRun
+16 Q0 release of "Known and Unknown" Fake id 4 6 0.6135010456095467 myRun
+16 Q0 release of "Known and Unknown" Fake id 0 7 0.41007470882222474 myRun
+16 Q0 release of "Known and Unknown" Fake id 2 8 0.30717160127692045 myRun
+16 Q0 release of "Known and Unknown" Fake id 8 9 0.22445453708811558 myRun
+16 Q0 release of "Known and Unknown" Fake id 9 10 0.08712026092219782 myRun
+17 Q0 White Stripes breakup Fake id 1 1 0.858889137969221 myRun
+17 Q0 White Stripes breakup Fake id 3 2 0.747403686864421 myRun
+17 Q0 White Stripes breakup Fake id 6 3 0.6947436846242356 myRun
+17 Q0 White Stripes breakup Fake id 4 4 0.5943689965849662 myRun
+17 Q0 White Stripes breakup Fake id 2 5 0.5601203083861335 myRun
+17 Q0 White Stripes breakup Fake id 8 6 0.5456162937418433 myRun
+17 Q0 White Stripes breakup Fake id 0 7 0.4356397825223606 myRun
+17 Q0 White Stripes breakup Fake id 5 8 0.2636201464869592 myRun
+17 Q0 White Stripes breakup Fake id 9 9 0.16093709458382421 myRun
+17 Q0 White Stripes breakup Fake id 7 10 0.07991113760546731 myRun
+18 Q0 William and Kate fax save-the-dateFake id 1 1 0.7062493861348178 myRun
+18 Q0 William and Kate fax save-the-dateFake id 3 2 0.6526574327337281 myRun
+18 Q0 William and Kate fax save-the-dateFake id 5 3 0.5782005836623013 myRun
+18 Q0 William and Kate fax save-the-dateFake id 4 4 0.5345647967510831 myRun
+18 Q0 William and Kate fax save-the-dateFake id 6 5 0.5190653504427767 myRun
+18 Q0 William and Kate fax save-the-dateFake id 7 6 0.4769991080846884 myRun
+18 Q0 William and Kate fax save-the-dateFake id 8 7 0.3946408961807799 myRun
+18 Q0 William and Kate fax save-the-dateFake id 2 8 0.3493601953283051 myRun
+18 Q0 William and Kate fax save-the-dateFake id 9 9 0.23616084820838001 myRun
+18 Q0 William and Kate fax save-the-dateFake id 0 10 0.11896673930879897 myRun
+19 Q0 Cuomo budget cutsFake id 6 1 0.9313574536332198 myRun
+19 Q0 Cuomo budget cutsFake id 3 2 0.9097726355075014 myRun
+19 Q0 Cuomo budget cutsFake id 7 3 0.766846420200051 myRun
+19 Q0 Cuomo budget cutsFake id 1 4 0.6467462077546776 myRun
+19 Q0 Cuomo budget cutsFake id 5 5 0.6145618566296077 myRun
+19 Q0 Cuomo budget cutsFake id 8 6 0.5597229935171263 myRun
+19 Q0 Cuomo budget cutsFake id 2 7 0.5092549987164878 myRun
+19 Q0 Cuomo budget cutsFake id 9 8 0.4359194333456132 myRun
+19 Q0 Cuomo budget cutsFake id 4 9 0.3928005131083864 myRun
+19 Q0 Cuomo budget cutsFake id 0 10 0.3054745655411273 myRun
+2 Q0 Taco Bell filling lawsuitFake id 3 1 0.9774312518806547 myRun
+2 Q0 Taco Bell filling lawsuitFake id 2 2 0.879734168054191 myRun
+2 Q0 Taco Bell filling lawsuitFake id 5 3 0.8349175740392945 myRun
+2 Q0 Taco Bell filling lawsuitFake id 6 4 0.8225212294890433 myRun
+2 Q0 Taco Bell filling lawsuitFake id 9 5 0.5289386620354757 myRun
+2 Q0 Taco Bell filling lawsuitFake id 8 6 0.5135900883611565 myRun
+2 Q0 Taco Bell filling lawsuitFake id 1 7 0.3533462215425578 myRun
+2 Q0 Taco Bell filling lawsuitFake id 0 8 0.30672458457016305 myRun
+2 Q0 Taco Bell filling lawsuitFake id 7 9 0.1856235795305251 myRun
+2 Q0 Taco Bell filling lawsuitFake id 4 10 0.05737283843752217 myRun
+21 Q0 Emanuel residency court rulingsFake id 9 1 0.9988652936891191 myRun
+21 Q0 Emanuel residency court rulingsFake id 0 2 0.5426311522120635 myRun
+21 Q0 Emanuel residency court rulingsFake id 7 3 0.43335077038706205 myRun
+21 Q0 Emanuel residency court rulingsFake id 1 4 0.3514050336315473 myRun
+21 Q0 Emanuel residency court rulingsFake id 5 5 0.31696440092000333 myRun
+21 Q0 Emanuel residency court rulingsFake id 2 6 0.2270262246347894 myRun
+21 Q0 Emanuel residency court rulingsFake id 3 7 0.2248920790331792 myRun
+21 Q0 Emanuel residency court rulingsFake id 6 8 0.12004468471925589 myRun
+21 Q0 Emanuel residency court rulingsFake id 8 9 0.11588827602836815 myRun
+21 Q0 Emanuel residency court rulingsFake id 4 10 0.042510337492130956 myRun
+22 Q0 healthcare law unconstitutional Fake id 6 1 0.916518850574825 myRun
+22 Q0 healthcare law unconstitutional Fake id 1 2 0.760594633418847 myRun
+22 Q0 healthcare law unconstitutional Fake id 8 3 0.7176565140813606 myRun
+22 Q0 healthcare law unconstitutional Fake id 9 4 0.5861477783527538 myRun
+22 Q0 healthcare law unconstitutional Fake id 3 5 0.49698885183232955 myRun
+22 Q0 healthcare law unconstitutional Fake id 4 6 0.4001698699282005 myRun
+22 Q0 healthcare law unconstitutional Fake id 0 7 0.3320215455835869 myRun
+22 Q0 healthcare law unconstitutional Fake id 7 8 0.3144792201806188 myRun
+22 Q0 healthcare law unconstitutional Fake id 2 9 0.2317168918451853 myRun
+22 Q0 healthcare law unconstitutional Fake id 5 10 0.15556341456386358 myRun
+23 Q0 Amtrak train serviceFake id 1 1 0.9720994272012174 myRun
+23 Q0 Amtrak train serviceFake id 4 2 0.8946764619376156 myRun
+23 Q0 Amtrak train serviceFake id 2 3 0.8390707650441441 myRun
+23 Q0 Amtrak train serviceFake id 3 4 0.6953982467860224 myRun
+23 Q0 Amtrak train serviceFake id 0 5 0.6278486937890325 myRun
+23 Q0 Amtrak train serviceFake id 7 6 0.5684404276128321 myRun
+23 Q0 Amtrak train serviceFake id 5 7 0.5627520383462886 myRun
+23 Q0 Amtrak train serviceFake id 9 8 0.3894097772348193 myRun
+23 Q0 Amtrak train serviceFake id 6 9 0.37912391678827706 myRun
+23 Q0 Amtrak train serviceFake id 8 10 0.01852903968681119 myRun
+24 Q0 Super Bowl, seatsFake id 0 1 0.9818186646335118 myRun
+24 Q0 Super Bowl, seatsFake id 2 2 0.9710193978236639 myRun
+24 Q0 Super Bowl, seatsFake id 4 3 0.8029832179466055 myRun
+24 Q0 Super Bowl, seatsFake id 1 4 0.7652656434450932 myRun
+24 Q0 Super Bowl, seatsFake id 3 5 0.7450764423207538 myRun
+24 Q0 Super Bowl, seatsFake id 7 6 0.7406249749655427 myRun
+24 Q0 Super Bowl, seatsFake id 8 7 0.6553466723807403 myRun
+24 Q0 Super Bowl, seatsFake id 6 8 0.3971584972923029 myRun
+24 Q0 Super Bowl, seatsFake id 5 9 0.14032322718041335 myRun
+24 Q0 Super Bowl, seatsFake id 9 10 0.10163449329020924 myRun
+25 Q0 TSA airport screeningFake id 0 1 0.8582480340289604 myRun
+25 Q0 TSA airport screeningFake id 8 2 0.7869542182062285 myRun
+25 Q0 TSA airport screeningFake id 5 3 0.7841443229877754 myRun
+25 Q0 TSA airport screeningFake id 9 4 0.7041200611790984 myRun
+25 Q0 TSA airport screeningFake id 1 5 0.6402644049142641 myRun
+25 Q0 TSA airport screeningFake id 3 6 0.5653990619809427 myRun
+25 Q0 TSA airport screeningFake id 2 7 0.38873177923668834 myRun
+25 Q0 TSA airport screeningFake id 4 8 0.37672534703723803 myRun
+25 Q0 TSA airport screeningFake id 6 9 0.17680147210479358 myRun
+25 Q0 TSA airport screeningFake id 7 10 0.01661224134942263 myRun
+26 Q0 US unemploymentFake id 1 1 0.9670765608521207 myRun
+26 Q0 US unemploymentFake id 9 2 0.9598759051154323 myRun
+26 Q0 US unemploymentFake id 8 3 0.8669685525175591 myRun
+26 Q0 US unemploymentFake id 7 4 0.8294154499187917 myRun
+26 Q0 US unemploymentFake id 6 5 0.6500921714983526 myRun
+26 Q0 US unemploymentFake id 0 6 0.45944239251268315 myRun
+26 Q0 US unemploymentFake id 5 7 0.4094577428930005 myRun
+26 Q0 US unemploymentFake id 2 8 0.27994099219868973 myRun
+26 Q0 US unemploymentFake id 4 9 0.2587356443823625 myRun
+26 Q0 US unemploymentFake id 3 10 0.21746356099754605 myRun
+27 Q0 reduce energy consumptionFake id 5 1 0.8800609234948648 myRun
+27 Q0 reduce energy consumptionFake id 7 2 0.7542894276096619 myRun
+27 Q0 reduce energy consumptionFake id 4 3 0.6059484845540729 myRun
+27 Q0 reduce energy consumptionFake id 3 4 0.5982632786703992 myRun
+27 Q0 reduce energy consumptionFake id 0 5 0.5887719400224595 myRun
+27 Q0 reduce energy consumptionFake id 9 6 0.5134372136217032 myRun
+27 Q0 reduce energy consumptionFake id 2 7 0.5085721203871664 myRun
+27 Q0 reduce energy consumptionFake id 8 8 0.42698405616664925 myRun
+27 Q0 reduce energy consumptionFake id 1 9 0.28393573737676847 myRun
+27 Q0 reduce energy consumptionFake id 6 10 0.2398340576398077 myRun
+28 Q0 Detroit Auto ShowFake id 8 1 0.8529302048315913 myRun
+28 Q0 Detroit Auto ShowFake id 9 2 0.7109881207342091 myRun
+28 Q0 Detroit Auto ShowFake id 6 3 0.6548893798860103 myRun
+28 Q0 Detroit Auto ShowFake id 7 4 0.5696069959863563 myRun
+28 Q0 Detroit Auto ShowFake id 2 5 0.5303667945787444 myRun
+28 Q0 Detroit Auto ShowFake id 0 6 0.4996959065705363 myRun
+28 Q0 Detroit Auto ShowFake id 5 7 0.3590425372875429 myRun
+28 Q0 Detroit Auto ShowFake id 3 8 0.32255533168967365 myRun
+28 Q0 Detroit Auto ShowFake id 1 9 0.32072747873033236 myRun
+28 Q0 Detroit Auto ShowFake id 4 10 0.1425821556987752 myRun
+29 Q0 global warming and weather Fake id 9 1 0.8779768599952694 myRun
+29 Q0 global warming and weather Fake id 3 2 0.8220777359676754 myRun
+29 Q0 global warming and weather Fake id 6 3 0.8131181026632854 myRun
+29 Q0 global warming and weather Fake id 8 4 0.5903309517771608 myRun
+29 Q0 global warming and weather Fake id 5 5 0.372031488038855 myRun
+29 Q0 global warming and weather Fake id 0 6 0.30229529250602927 myRun
+29 Q0 global warming and weather Fake id 1 7 0.24579603510667192 myRun
+29 Q0 global warming and weather Fake id 7 8 0.2151610882011653 myRun
+29 Q0 global warming and weather Fake id 4 9 0.1395132238768957 myRun
+29 Q0 global warming and weather Fake id 2 10 0.0024460180840162327 myRun
+3 Q0 Keith Olbermann new jobFake id 4 1 0.8033854578991885 myRun
+3 Q0 Keith Olbermann new jobFake id 6 2 0.7993820366397191 myRun
+3 Q0 Keith Olbermann new jobFake id 2 3 0.6674647709090584 myRun
+3 Q0 Keith Olbermann new jobFake id 0 4 0.48831434142956054 myRun
+3 Q0 Keith Olbermann new jobFake id 9 5 0.33529434179118545 myRun
+3 Q0 Keith Olbermann new jobFake id 3 6 0.31335475559842485 myRun
+3 Q0 Keith Olbermann new jobFake id 8 7 0.2955925044667901 myRun
+3 Q0 Keith Olbermann new jobFake id 1 8 0.21721875389261436 myRun
+3 Q0 Keith Olbermann new jobFake id 5 9 0.11433434509501328 myRun
+3 Q0 Keith Olbermann new jobFake id 7 10 0.056162409968487204 myRun
+31 Q0 Special Olympics athletesFake id 5 1 0.8513114694849636 myRun
+31 Q0 Special Olympics athletesFake id 1 2 0.7827464960842179 myRun
+31 Q0 Special Olympics athletesFake id 8 3 0.6860456243121431 myRun
+31 Q0 Special Olympics athletesFake id 4 4 0.5567863564545779 myRun
+31 Q0 Special Olympics athletesFake id 9 5 0.4844555666656596 myRun
+31 Q0 Special Olympics athletesFake id 2 6 0.39740970610480386 myRun
+31 Q0 Special Olympics athletesFake id 0 7 0.24146919122014965 myRun
+31 Q0 Special Olympics athletesFake id 7 8 0.21334527352761634 myRun
+31 Q0 Special Olympics athletesFake id 6 9 0.19166694109157445 myRun
+31 Q0 Special Olympics athletesFake id 3 10 0.07102051778925855 myRun
+32 Q0 State of the Union  and jobsFake id 3 1 0.9731749506653617 myRun
+32 Q0 State of the Union  and jobsFake id 0 2 0.8701821199907896 myRun
+32 Q0 State of the Union  and jobsFake id 6 3 0.8622555583979694 myRun
+32 Q0 State of the Union  and jobsFake id 1 4 0.744977423461162 myRun
+32 Q0 State of the Union  and jobsFake id 9 5 0.741259968595018 myRun
+32 Q0 State of the Union  and jobsFake id 5 6 0.7002789298197463 myRun
+32 Q0 State of the Union  and jobsFake id 2 7 0.5110521408752666 myRun
+32 Q0 State of the Union  and jobsFake id 7 8 0.4370277507985558 myRun
+32 Q0 State of the Union  and jobsFake id 4 9 0.34253571845288233 myRun
+32 Q0 State of the Union  and jobsFake id 8 10 0.2501512275217529 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 8 1 0.9280330955947927 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 2 2 0.8515932650080292 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 9 3 0.7410015818913946 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 3 4 0.6107927425132783 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 6 5 0.603109754313171 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 1 6 0.546037067409425 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 4 7 0.382156315635207 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 5 8 0.3427541211165326 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 0 9 0.12908981285543697 myRun
+33 Q0 Dog Whisperer Cesar Millan's techniquesFake id 7 10 0.12452182375686394 myRun
+34 Q0 MSNBC Rachel MaddowFake id 1 1 0.9380945869629725 myRun
+34 Q0 MSNBC Rachel MaddowFake id 6 2 0.8733449943719886 myRun
+34 Q0 MSNBC Rachel MaddowFake id 4 3 0.825317644967581 myRun
+34 Q0 MSNBC Rachel MaddowFake id 7 4 0.7396644775345321 myRun
+34 Q0 MSNBC Rachel MaddowFake id 9 5 0.6831312522994992 myRun
+34 Q0 MSNBC Rachel MaddowFake id 8 6 0.6613580611784673 myRun
+34 Q0 MSNBC Rachel MaddowFake id 3 7 0.6158220767608538 myRun
+34 Q0 MSNBC Rachel MaddowFake id 5 8 0.5069933987381129 myRun
+34 Q0 MSNBC Rachel MaddowFake id 0 9 0.4819691720631367 myRun
+34 Q0 MSNBC Rachel MaddowFake id 2 10 0.31710403454147496 myRun
+35 Q0 Sargent Shriver tributesFake id 5 1 0.9698382365612624 myRun
+35 Q0 Sargent Shriver tributesFake id 0 2 0.9179172408242546 myRun
+35 Q0 Sargent Shriver tributesFake id 4 3 0.7582229240399472 myRun
+35 Q0 Sargent Shriver tributesFake id 7 4 0.6869467660589665 myRun
+35 Q0 Sargent Shriver tributesFake id 6 5 0.6793445985284371 myRun
+35 Q0 Sargent Shriver tributesFake id 1 6 0.3887753646568808 myRun
+35 Q0 Sargent Shriver tributesFake id 3 7 0.1771506167785264 myRun
+35 Q0 Sargent Shriver tributesFake id 8 8 0.17454493607735788 myRun
+35 Q0 Sargent Shriver tributesFake id 2 9 0.10944831803472244 myRun
+35 Q0 Sargent Shriver tributesFake id 9 10 0.056998665338274135 myRun
+36 Q0 Moscow airport bombingFake id 0 1 0.9571546315094925 myRun
+36 Q0 Moscow airport bombingFake id 5 2 0.8424022914935609 myRun
+36 Q0 Moscow airport bombingFake id 8 3 0.8008128942545755 myRun
+36 Q0 Moscow airport bombingFake id 4 4 0.7441664295224831 myRun
+36 Q0 Moscow airport bombingFake id 9 5 0.6693623033839208 myRun
+36 Q0 Moscow airport bombingFake id 6 6 0.6495641434971381 myRun
+36 Q0 Moscow airport bombingFake id 3 7 0.6056650823759215 myRun
+36 Q0 Moscow airport bombingFake id 2 8 0.5627314138939575 myRun
+36 Q0 Moscow airport bombingFake id 1 9 0.3918271090225397 myRun
+36 Q0 Moscow airport bombingFake id 7 10 0.1983353337281587 myRun
+37 Q0 Giffords' recoveryFake id 2 1 0.9460641174623821 myRun
+37 Q0 Giffords' recoveryFake id 5 2 0.9027063296674158 myRun
+37 Q0 Giffords' recoveryFake id 4 3 0.632695182513574 myRun
+37 Q0 Giffords' recoveryFake id 7 4 0.5903737819283169 myRun
+37 Q0 Giffords' recoveryFake id 9 5 0.5858761667621953 myRun
+37 Q0 Giffords' recoveryFake id 8 6 0.4022610590314526 myRun
+37 Q0 Giffords' recoveryFake id 3 7 0.38853250392955585 myRun
+37 Q0 Giffords' recoveryFake id 0 8 0.33424897062220593 myRun
+37 Q0 Giffords' recoveryFake id 1 9 0.09859880255327569 myRun
+37 Q0 Giffords' recoveryFake id 6 10 0.0692850817887557 myRun
+38 Q0 protests in JordanFake id 0 1 0.9987471850050341 myRun
+38 Q0 protests in JordanFake id 1 2 0.9497583618427916 myRun
+38 Q0 protests in JordanFake id 5 3 0.8304765825530382 myRun
+38 Q0 protests in JordanFake id 7 4 0.45625708390917086 myRun
+38 Q0 protests in JordanFake id 6 5 0.42894009091759755 myRun
+38 Q0 protests in JordanFake id 4 6 0.41972322878756907 myRun
+38 Q0 protests in JordanFake id 3 7 0.3979847336769564 myRun
+38 Q0 protests in JordanFake id 2 8 0.29923025402562897 myRun
+38 Q0 protests in JordanFake id 9 9 0.28205537379816625 myRun
+38 Q0 protests in JordanFake id 8 10 0.21387669353684946 myRun
+39 Q0 Egyptian curfewFake id 5 1 0.931246263157248 myRun
+39 Q0 Egyptian curfewFake id 1 2 0.6941708080969909 myRun
+39 Q0 Egyptian curfewFake id 3 3 0.5900341386171737 myRun
+39 Q0 Egyptian curfewFake id 9 4 0.5159558089202634 myRun
+39 Q0 Egyptian curfewFake id 0 5 0.42308115882424224 myRun
+39 Q0 Egyptian curfewFake id 7 6 0.38661792331669065 myRun
+39 Q0 Egyptian curfewFake id 4 7 0.3473866318897205 myRun
+39 Q0 Egyptian curfewFake id 2 8 0.2678652909422925 myRun
+39 Q0 Egyptian curfewFake id 6 9 0.21281529644963837 myRun
+39 Q0 Egyptian curfewFake id 8 10 0.02481941068602267 myRun
+4 Q0 Beck attacks PivenFake id 9 1 0.8803973377511024 myRun
+4 Q0 Beck attacks PivenFake id 6 2 0.720058232955887 myRun
+4 Q0 Beck attacks PivenFake id 8 3 0.7027266052961976 myRun
+4 Q0 Beck attacks PivenFake id 2 4 0.6384543840341238 myRun
+4 Q0 Beck attacks PivenFake id 5 5 0.5167878952777527 myRun
+4 Q0 Beck attacks PivenFake id 1 6 0.5089740790756527 myRun
+4 Q0 Beck attacks PivenFake id 0 7 0.48923974061682174 myRun
+4 Q0 Beck attacks PivenFake id 4 8 0.4730051622226076 myRun
+4 Q0 Beck attacks PivenFake id 3 9 0.4145274789119927 myRun
+4 Q0 Beck attacks PivenFake id 7 10 0.17767755782552797 myRun
+41 Q0 Obama birth certificateFake id 7 1 0.8904875397954424 myRun
+41 Q0 Obama birth certificateFake id 1 2 0.8703598775166067 myRun
+41 Q0 Obama birth certificateFake id 8 3 0.5606085052440841 myRun
+41 Q0 Obama birth certificateFake id 4 4 0.5521356716121915 myRun
+41 Q0 Obama birth certificateFake id 9 5 0.512821412832452 myRun
+41 Q0 Obama birth certificateFake id 5 6 0.42438838510875554 myRun
+41 Q0 Obama birth certificateFake id 6 7 0.402992356269654 myRun
+41 Q0 Obama birth certificateFake id 2 8 0.3652276180577133 myRun
+41 Q0 Obama birth certificateFake id 0 9 0.33209140854103636 myRun
+41 Q0 Obama birth certificateFake id 3 10 0.29931646292699776 myRun
+42 Q0 Holland Iran envoy recallFake id 6 1 0.994231305443606 myRun
+42 Q0 Holland Iran envoy recallFake id 2 2 0.9505862516131132 myRun
+42 Q0 Holland Iran envoy recallFake id 3 3 0.8589215457824624 myRun
+42 Q0 Holland Iran envoy recallFake id 4 4 0.6870559058169253 myRun
+42 Q0 Holland Iran envoy recallFake id 9 5 0.5027529088517915 myRun
+42 Q0 Holland Iran envoy recallFake id 0 6 0.46026830996473944 myRun
+42 Q0 Holland Iran envoy recallFake id 8 7 0.43228572873386706 myRun
+42 Q0 Holland Iran envoy recallFake id 1 8 0.30038917974142587 myRun
+42 Q0 Holland Iran envoy recallFake id 7 9 0.2971150580472559 myRun
+42 Q0 Holland Iran envoy recallFake id 5 10 0.16029603959058902 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 8 1 0.719074921261355 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 3 2 0.7162014010070287 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 2 3 0.3983627369481928 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 1 4 0.3448129884517661 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 4 5 0.3287578658078043 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 9 6 0.2641268309592949 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 5 7 0.25713875939173814 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 7 8 0.22288349883460645 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 0 9 0.13748656834234352 myRun
+43 Q0 Kucinich olive pit lawsuitFake id 6 10 0.0324062940046399 myRun
+44 Q0 White House spokesman replacedFake id 6 1 0.993758329525689 myRun
+44 Q0 White House spokesman replacedFake id 0 2 0.8999076489416236 myRun
+44 Q0 White House spokesman replacedFake id 3 3 0.7902667686387819 myRun
+44 Q0 White House spokesman replacedFake id 4 4 0.7695215124590512 myRun
+44 Q0 White House spokesman replacedFake id 5 5 0.6892717761319807 myRun
+44 Q0 White House spokesman replacedFake id 8 6 0.6078022848402195 myRun
+44 Q0 White House spokesman replacedFake id 1 7 0.5425505946733918 myRun
+44 Q0 White House spokesman replacedFake id 2 8 0.40235842667103794 myRun
+44 Q0 White House spokesman replacedFake id 7 9 0.2667920243068105 myRun
+44 Q0 White House spokesman replacedFake id 9 10 0.1472982093882823 myRun
+45 Q0 political campaigns and social mediaFake id 9 1 0.9994941265344522 myRun
+45 Q0 political campaigns and social mediaFake id 2 2 0.8446016532986472 myRun
+45 Q0 political campaigns and social mediaFake id 0 3 0.7362471104677892 myRun
+45 Q0 political campaigns and social mediaFake id 5 4 0.5391427015790754 myRun
+45 Q0 political campaigns and social mediaFake id 3 5 0.46859474432099957 myRun
+45 Q0 political campaigns and social mediaFake id 8 6 0.43717613675239 myRun
+45 Q0 political campaigns and social mediaFake id 4 7 0.37996127443539984 myRun
+45 Q0 political campaigns and social mediaFake id 6 8 0.30594316114699516 myRun
+45 Q0 political campaigns and social mediaFake id 1 9 0.1985908938990294 myRun
+45 Q0 political campaigns and social mediaFake id 7 10 0.19251204287272017 myRun
+46 Q0 Bottega VenetaFake id 9 1 0.9563348685186994 myRun
+46 Q0 Bottega VenetaFake id 7 2 0.9223473183285529 myRun
+46 Q0 Bottega VenetaFake id 1 3 0.8904087441718066 myRun
+46 Q0 Bottega VenetaFake id 2 4 0.8788963886778439 myRun
+46 Q0 Bottega VenetaFake id 4 5 0.8779562566523978 myRun
+46 Q0 Bottega VenetaFake id 3 6 0.6341515085664257 myRun
+46 Q0 Bottega VenetaFake id 8 7 0.5917455440401588 myRun
+46 Q0 Bottega VenetaFake id 6 8 0.5807085610177093 myRun
+46 Q0 Bottega VenetaFake id 0 9 0.16566542690952535 myRun
+46 Q0 Bottega VenetaFake id 5 10 0.15017605465102457 myRun
+47 Q0 organic farming requirementsFake id 4 1 0.9478577118506407 myRun
+47 Q0 organic farming requirementsFake id 1 2 0.9383944589087554 myRun
+47 Q0 organic farming requirementsFake id 5 3 0.8288436333378024 myRun
+47 Q0 organic farming requirementsFake id 0 4 0.7864028903357353 myRun
+47 Q0 organic farming requirementsFake id 8 5 0.4691058513544074 myRun
+47 Q0 organic farming requirementsFake id 3 6 0.3885879851910564 myRun
+47 Q0 organic farming requirementsFake id 7 7 0.3624081754379991 myRun
+47 Q0 organic farming requirementsFake id 6 8 0.22315826690819307 myRun
+47 Q0 organic farming requirementsFake id 9 9 0.2042495197337274 myRun
+47 Q0 organic farming requirementsFake id 2 10 0.1339952538737631 myRun
+48 Q0 Egyptian evacuationFake id 0 1 0.9993149698492707 myRun
+48 Q0 Egyptian evacuationFake id 5 2 0.9126266880789735 myRun
+48 Q0 Egyptian evacuationFake id 7 3 0.8339695036344471 myRun
+48 Q0 Egyptian evacuationFake id 2 4 0.8295043901495434 myRun
+48 Q0 Egyptian evacuationFake id 6 5 0.7580073826326569 myRun
+48 Q0 Egyptian evacuationFake id 4 6 0.7502050896683659 myRun
+48 Q0 Egyptian evacuationFake id 8 7 0.7039498412975942 myRun
+48 Q0 Egyptian evacuationFake id 1 8 0.4666994505274257 myRun
+48 Q0 Egyptian evacuationFake id 3 9 0.1807050247818338 myRun
+48 Q0 Egyptian evacuationFake id 9 10 0.004232768359355599 myRun
+49 Q0 carbon monoxide lawFake id 6 1 0.9598745432409078 myRun
+49 Q0 carbon monoxide lawFake id 4 2 0.90633592403916 myRun
+49 Q0 carbon monoxide lawFake id 9 3 0.8139265016040611 myRun
+49 Q0 carbon monoxide lawFake id 0 4 0.8017360844453235 myRun
+49 Q0 carbon monoxide lawFake id 8 5 0.6017989246864495 myRun
+49 Q0 carbon monoxide lawFake id 2 6 0.4513279978650615 myRun
+49 Q0 carbon monoxide lawFake id 3 7 0.4361556420694407 myRun
+49 Q0 carbon monoxide lawFake id 7 8 0.1446661650082165 myRun
+49 Q0 carbon monoxide lawFake id 1 9 0.11520319323423345 myRun
+49 Q0 carbon monoxide lawFake id 5 10 0.07107713459053633 myRun
