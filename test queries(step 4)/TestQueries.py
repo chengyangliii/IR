@@ -46,5 +46,5 @@ if tests == "3": # combine test case1&2
             
             rank = 1
             for docNum,score in sortedResult.items():
-                f.write("{} {} {} {} {} {}".format(num[2:].strip('0'), 'Q0', docNum, rank, score,'myRun\n'))
+                f.write("{} {} {} {} {} {}".format(num[2:].lstrip('0'), 'Q0', docNum, rank, score,'myRun\n'))
                 rank+=1
